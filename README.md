@@ -2,6 +2,8 @@
 
 # 🖥️ PicoOS for CC:Tweaked (ComputerCraft)
 
+[Русская версия (Russian Version)](README_RU.md)
+
 > A lightweight, Windows-style desktop environment and operating system designed for ComputerCraft / CC:Tweaked in Minecraft. Fully compatible with NovaOS servers and network protocols.
 
 ---
