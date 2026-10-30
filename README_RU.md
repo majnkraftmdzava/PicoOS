@@ -22,7 +22,7 @@
 Чтобы установить PicoOS на любой продвинутый компьютер (Advanced Computer) в Майнкрафте, выполни следующую команду в терминале CraftOS (после загрузки кода на Pastebin):
 
 ```bash
-pastebin get <твой_код_pastebin> startup
+pastebin run YDL23ptj
 
 ```
 
