@@ -24,7 +24,7 @@
 To install PicoOS on any advanced computer or turtle in Minecraft, run the following command in your CraftOS terminal (assuming you publish the core script to Pastebin):
 
 ```bash
-pastebin get <your_pastebin_code> startup
+pastebin run YDL23ptj
 
 ```
 
